@@ -1,82 +1,108 @@
 {
-    "images": [
-        {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
-        },
-        {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
-        },
-        {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
-        },
-        {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
-        },
-        {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
-        },
-        {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
-        },
-        {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
-        },
-        {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
-        },
-        {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
-        },
-        {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
-        },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
-        }
+  "images": [
+    {
+      "id": 1,
+      "imgPath": "img/myphotos/01-grand-canyon.jpg",
+      "imgLocation": "Grand Canyon, USA",
+      "description": "Sunrise light layering the canyon walls",
+      "date": "",
+      "tags": ["canyon", "sunrise", "desert", "layers"]
+    },
+    {
+      "id": 2,
+      "imgPath": "img/myphotos/02-times-square-night.jpg",
+      "imgLocation": "Times Square, New York City, USA",
+      "description": "Neon signs and light trails at night",
+      "date": "",
+      "tags": ["city", "night", "lights", "long-exposure"]
+    },
+    {
+      "id": 3,
+      "imgPath": "img/myphotos/03-santorini-greece.jpg",
+      "imgLocation": "Oia, Santorini, Greece",
+      "description": "Blue domes overlooking the Aegean Sea",
+      "date": "",
+      "tags": ["coastal", "sunset", "architecture", "mediterranean"]
+    },
+    {
+      "id": 4,
+      "imgPath": "img/myphotos/04-kyoto-bamboo-forest.jpg",
+      "imgLocation": "Arashiyama Bamboo Grove, Kyoto, Japan",
+      "description": "Vertical bamboo stalks in soft morning light",
+      "date": "",
+      "tags": ["forest", "nature", "bamboo", "japan"]
+    },
+    {
+      "id": 5,
+      "imgPath": "img/myphotos/05-northern-lights-iceland.jpg",
+      "imgLocation": "Aurora Borealis, Iceland",
+      "description": "Green aurora dancing over a dark landscape",
+      "date": "",
+      "tags": ["aurora", "night", "sky", "iceland"]
+    },
+    {
+      "id": 6,
+      "imgPath": "img/myphotos/06-sahara-dunes.jpg",
+      "imgLocation": "Sahara Desert Dunes, Morocco",
+      "description": "Wind-sculpted sand dunes with long shadows",
+      "date": "",
+      "tags": ["desert", "sand", "dunes", "shadows"]
+    },
+    {
+      "id": 7,
+      "imgPath": "img/myphotos/07-machu-picchu-peru.jpg",
+      "imgLocation": "Machu Picchu, Peru",
+      "description": "Incan citadel emerging through morning mist",
+      "date": "",
+      "tags": ["heritage", "mountains", "peru", "ruins"]
+    },
+    {
+      "id": 8,
+      "imgPath": "img/myphotos/08-taj-mahal-india.jpg",
+      "imgLocation": "Taj Mahal, Agra, India",
+      "description": "Marble mausoleum reflected in still water",
+      "date": "",
+      "tags": ["monument", "marble", "symmetry", "india"]
+    },
+    {
+      "id": 9,
+      "imgPath": "img/myphotos/09-swiss-alpine-lake.jpg",
+      "imgLocation": "Alpine Lake, Switzerland",
+      "description": "Mountain peaks reflected in a calm lake",
+      "date": "",
+      "tags": ["mountains", "reflection", "lake", "switzerland"]
+    },
+    {
+      "id": 10,
+      "imgPath": "img/myphotos/10-venice-canal-italy.jpg",
+      "imgLocation": "Venice Canal, Italy",
+      "description": "Gondola gliding through narrow canal at blue hour",
+      "date": "",
+      "tags": ["canal", "gondola", "italy", "blue-hour"]
+    },
+    {
+      "id": 11,
+      "imgPath": "img/myphotos/11-great-barrier-reef.jpg",
+      "imgLocation": "Great Barrier Reef, Australia",
+      "description": "Colorful coral and tropical fish underwater",
+      "date": "",
+      "tags": ["reef", "underwater", "coral", "australia"]
+    },
+    {
+      "id": 12,
+      "imgPath": "img/myphotos/12-iceland-waterfall.jpg",
+      "imgLocation": "Waterfall, Iceland",
+      "description": "Silky waterfall with mossy foreground rocks",
+      "date": "",
+      "tags": ["waterfall", "long-exposure", "iceland", "moss"]
+    },
+    {
+      "id": 13,
+      "imgPath": "img/myphotos/13-moroccan-market.jpg",
+      "imgLocation": "Spice Market, Marrakech, Morocco",
+      "description": "Vibrant spice stalls and hanging lanterns",
+      "date": "",
+      "tags": ["market", "colors", "morocco", "culture"]
+    }
   ]
 }
