@@ -6,9 +6,6 @@ const mWaitTime = 5000 // Timer interval in milliseconds
 $(document).ready(() => {
   $('.details').hide() // Hide details initially
 
-  // Call a function here to start the timer for the slideshow
-  startTimer()
-
   // Select the moreIndicator button and add a click event to:
   // - toggle the rotation classes (rot90 and rot270)
   // - slideToggle the visibility of the .details section
@@ -32,6 +29,8 @@ $(document).ready(() => {
 })
 
 // Function to fetch JSON data and store it in mImages
+let mTimerId = null
+
 function fetchJSON () {
   $.ajax({
     url: mUrl,
@@ -44,6 +43,8 @@ function fetchJSON () {
       })
       // After JSON is loaded, call swapPhoto() to display the first image
       swapPhoto()
+      // Start timer after images have successfully loaded
+      startTimer()
     },
     error: function(xhr, status, error) {
       console.error('Error loading JSON:', error)
@@ -75,7 +76,9 @@ function showNextPhoto () {
   if (mCurrentIndex >= mImages.length) {
     mCurrentIndex = 0
   }
-  swapPhoto()
+  if (mImages.length > 0) {
+    swapPhoto()
+  }
 }
 
 // Goes to the previous photo, loops to the last photo if mCurrentIndex goes negative
@@ -86,11 +89,16 @@ function showPrevPhoto () {
   if (mCurrentIndex < 0) {
     mCurrentIndex = mImages.length - 1
   }
-  swapPhoto()
+  if (mImages.length > 0) {
+    swapPhoto()
+  }
 }
 
 // Starter code for the timer function
 function startTimer () {
+  if (mTimerId) {
+    clearInterval(mTimerId)
+  }
   // Create a timer to automatically call `showNextPhoto()` every mWaitTime milliseconds
-  setInterval(showNextPhoto, mWaitTime)
+  mTimerId = setInterval(showNextPhoto, mWaitTime)
 }
