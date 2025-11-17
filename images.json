@@ -1,108 +1,108 @@
 {
-  "images": [
-    {
-      "id": 1,
-      "imgPath": "img/myphotos/01-grand-canyon.jpg",
-      "imgLocation": "Grand Canyon, USA",
-      "description": "Sunrise light layering the canyon walls",
-      "date": "2025-11-10",
-      "tags": ["canyon", "sunrise", "desert", "layers"]
-    },
-    {
-      "id": 2,
-      "imgPath": "img/myphotos/02-times-square-night.jpg",
-      "imgLocation": "Times Square, New York City, USA",
-      "description": "Neon signs and light trails at night",
-      "date": "2025-11-10",
-      "tags": ["city", "night", "lights", "long-exposure"]
-    },
-    {
-      "id": 3,
-      "imgPath": "img/myphotos/03-santorini-greece.jpg",
-      "imgLocation": "Oia, Santorini, Greece",
-      "description": "Blue domes overlooking the Aegean Sea",
-      "date": "2025-11-10",
-      "tags": ["coastal", "sunset", "architecture", "mediterranean"]
-    },
-    {
-      "id": 4,
-      "imgPath": "img/myphotos/04-kyoto-bamboo-forest.jpg",
-      "imgLocation": "Arashiyama Bamboo Grove, Kyoto, Japan",
-      "description": "Vertical bamboo stalks in soft morning light",
-      "date": "2025-11-10",
-      "tags": ["forest", "nature", "bamboo", "japan"]
-    },
-    {
-      "id": 5,
-      "imgPath": "img/myphotos/05-northern-lights-iceland.jpg",
-      "imgLocation": "Aurora Borealis, Iceland",
-      "description": "Green aurora dancing over a dark landscape",
-      "date": "2025-11-10",
-      "tags": ["aurora", "night", "sky", "iceland"]
-    },
-    {
-      "id": 6,
-      "imgPath": "img/myphotos/06-sahara-dunes.jpg",
-      "imgLocation": "Sahara Desert Dunes, Morocco",
-      "description": "Wind-sculpted sand dunes with long shadows",
-      "date": "2025-11-10",
-      "tags": ["desert", "sand", "dunes", "shadows"]
-    },
-    {
-      "id": 7,
-      "imgPath": "img/myphotos/07-machu-picchu-peru.jpg",
-      "imgLocation": "Machu Picchu, Peru",
-      "description": "Incan citadel emerging through morning mist",
-      "date": "2025-11-10",
-      "tags": ["heritage", "mountains", "peru", "ruins"]
-    },
-    {
-      "id": 8,
-      "imgPath": "img/myphotos/08-taj-mahal-india.jpg",
-      "imgLocation": "Taj Mahal, Agra, India",
-      "description": "Marble mausoleum reflected in still water",
-      "date": "2025-11-10",
-      "tags": ["monument", "marble", "symmetry", "india"]
-    },
-    {
-      "id": 9,
-      "imgPath": "img/myphotos/09-swiss-alpine-lake.jpg",
-      "imgLocation": "Alpine Lake, Switzerland",
-      "description": "Mountain peaks reflected in a calm lake",
-      "date": "2025-11-10",
-      "tags": ["mountains", "reflection", "lake", "switzerland"]
-    },
-    {
-      "id": 10,
-      "imgPath": "img/myphotos/10-venice-canal-italy.jpg",
-      "imgLocation": "Venice Canal, Italy",
-      "description": "Gondola gliding through narrow canal at blue hour",
-      "date": "2025-11-10",
-      "tags": ["canal", "gondola", "italy", "blue-hour"]
-    },
-    {
-      "id": 11,
-      "imgPath": "img/myphotos/11-great-barrier-reef.jpg",
-      "imgLocation": "Great Barrier Reef, Australia",
-      "description": "Colorful coral and tropical fish underwater",
-      "date": "2025-11-10",
-      "tags": ["reef", "underwater", "coral", "australia"]
-    },
-    {
-      "id": 12,
-      "imgPath": "img/myphotos/12-iceland-waterfall.jpg",
-      "imgLocation": "Waterfall, Iceland",
-      "description": "Silky waterfall with mossy foreground rocks",
-      "date": "2025-11-10",
-      "tags": ["waterfall", "long-exposure", "iceland", "moss"]
-    },
-    {
-      "id": 13,
-      "imgPath": "img/myphotos/13-moroccan-market.jpg",
-      "imgLocation": "Spice Market, Marrakech, Morocco",
-      "description": "Vibrant spice stalls and hanging lanterns",
-      "date": "2025-11-10",
-      "tags": ["market", "colors", "morocco", "culture"]
-    }
-  ]
+	"images": [
+		{
+			"id": 1,
+			"imgPath": "img/myphotos/01-grand-canyon.jpg",
+			"imgLocation": "Grand Canyon, USA",
+			"description": "Sunrise light layering the canyon walls",
+			"date": "2025-11-10",
+			"tags": ["canyon", "sunrise", "desert", "layers"]
+		},
+		{
+			"id": 2,
+			"imgPath": "img/myphotos/02-times-square-night.jpg",
+			"imgLocation": "Times Square, New York City, USA",
+			"description": "Neon signs and light trails at night",
+			"date": "2025-11-10",
+			"tags": ["city", "night", "lights", "long-exposure"]
+		},
+		{
+			"id": 3,
+			"imgPath": "img/myphotos/03-santorini-greece.jpg",
+			"imgLocation": "Oia, Santorini, Greece",
+			"description": "Blue domes overlooking the Aegean Sea",
+			"date": "2025-11-10",
+			"tags": ["coastal", "sunset", "architecture", "mediterranean"]
+		},
+		{
+			"id": 4,
+			"imgPath": "img/myphotos/04-kyoto-bamboo-forest.jpg",
+			"imgLocation": "Arashiyama Bamboo Grove, Kyoto, Japan",
+			"description": "Vertical bamboo stalks in soft morning light",
+			"date": "2025-11-10",
+			"tags": ["forest", "nature", "bamboo", "japan"]
+		},
+		{
+			"id": 5,
+			"imgPath": "img/myphotos/05-northern-lights-iceland.jpg",
+			"imgLocation": "Aurora Borealis, Iceland",
+			"description": "Green aurora dancing over a dark landscape",
+			"date": "2025-11-10",
+			"tags": ["aurora", "night", "sky", "iceland"]
+		},
+		{
+			"id": 6,
+			"imgPath": "img/myphotos/06-sahara-dunes.jpg",
+			"imgLocation": "Sahara Desert Dunes, Morocco",
+			"description": "Wind-sculpted sand dunes with long shadows",
+			"date": "2025-11-10",
+			"tags": ["desert", "sand", "dunes", "shadows"]
+		},
+		{
+			"id": 7,
+			"imgPath": "img/myphotos/07-machu-picchu-peru.jpg",
+			"imgLocation": "Machu Picchu, Peru",
+			"description": "Incan citadel emerging through morning mist",
+			"date": "2025-11-10",
+			"tags": ["heritage", "mountains", "peru", "ruins"]
+		},
+		{
+			"id": 8,
+			"imgPath": "img/myphotos/08-taj-mahal-india.jpg",
+			"imgLocation": "Taj Mahal, Agra, India",
+			"description": "Marble mausoleum reflected in still water",
+			"date": "2025-11-10",
+			"tags": ["monument", "marble", "symmetry", "india"]
+		},
+		{
+			"id": 9,
+			"imgPath": "img/myphotos/09-swiss-alpine-lake.jpg",
+			"imgLocation": "Alpine Lake, Switzerland",
+			"description": "Mountain peaks reflected in a calm lake",
+			"date": "2025-11-10",
+			"tags": ["mountains", "reflection", "lake", "switzerland"]
+		},
+		{
+			"id": 10,
+			"imgPath": "img/myphotos/10-venice-canal-italy.jpg",
+			"imgLocation": "Venice Canal, Italy",
+			"description": "Gondola gliding through narrow canal at blue hour",
+			"date": "2025-11-10",
+			"tags": ["canal", "gondola", "italy", "blue-hour"]
+		},
+		{
+			"id": 11,
+			"imgPath": "img/myphotos/11-great-barrier-reef.jpg",
+			"imgLocation": "Great Barrier Reef, Australia",
+			"description": "Colorful coral and tropical fish underwater",
+			"date": "2025-11-10",
+			"tags": ["reef", "underwater", "coral", "australia"]
+		},
+		{
+			"id": 12,
+			"imgPath": "img/myphotos/12-iceland-waterfall.jpg",
+			"imgLocation": "Waterfall, Iceland",
+			"description": "Silky waterfall with mossy foreground rocks",
+			"date": "2025-11-10",
+			"tags": ["waterfall", "long-exposure", "iceland", "moss"]
+		},
+		{
+			"id": 13,
+			"imgPath": "img/myphotos/13-moroccan-market.jpg",
+			"imgLocation": "Spice Market, Marrakech, Morocco",
+			"description": "Vibrant spice stalls and hanging lanterns",
+			"date": "2025-11-10",
+			"tags": ["market", "colors", "morocco", "culture"]
+		}
+	]
 }
