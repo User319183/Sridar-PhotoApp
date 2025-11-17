@@ -12,6 +12,11 @@ $(document).ready(() => {
   // Select the moreIndicator button and add a click event to:
   // - toggle the rotation classes (rot90 and rot270)
   // - slideToggle the visibility of the .details section
+  $('.moreIndicator').click(function () {
+    $('.details').slideToggle(300)
+    // Toggle between rot90 and rot270 to visually rotate the indicator
+    $(this).toggleClass('rot90 rot270')
+  })
 
   // Select the "Next Photo" button and add a click event to call showNextPhoto
   $('#nextPhoto').click(showNextPhoto)
