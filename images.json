@@ -5,7 +5,7 @@
       "imgPath": "img/myphotos/01-grand-canyon.jpg",
       "imgLocation": "Grand Canyon, USA",
       "description": "Sunrise light layering the canyon walls",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["canyon", "sunrise", "desert", "layers"]
     },
     {
@@ -13,7 +13,7 @@
       "imgPath": "img/myphotos/02-times-square-night.jpg",
       "imgLocation": "Times Square, New York City, USA",
       "description": "Neon signs and light trails at night",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["city", "night", "lights", "long-exposure"]
     },
     {
@@ -21,7 +21,7 @@
       "imgPath": "img/myphotos/03-santorini-greece.jpg",
       "imgLocation": "Oia, Santorini, Greece",
       "description": "Blue domes overlooking the Aegean Sea",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["coastal", "sunset", "architecture", "mediterranean"]
     },
     {
@@ -29,7 +29,7 @@
       "imgPath": "img/myphotos/04-kyoto-bamboo-forest.jpg",
       "imgLocation": "Arashiyama Bamboo Grove, Kyoto, Japan",
       "description": "Vertical bamboo stalks in soft morning light",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["forest", "nature", "bamboo", "japan"]
     },
     {
@@ -37,7 +37,7 @@
       "imgPath": "img/myphotos/05-northern-lights-iceland.jpg",
       "imgLocation": "Aurora Borealis, Iceland",
       "description": "Green aurora dancing over a dark landscape",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["aurora", "night", "sky", "iceland"]
     },
     {
@@ -45,7 +45,7 @@
       "imgPath": "img/myphotos/06-sahara-dunes.jpg",
       "imgLocation": "Sahara Desert Dunes, Morocco",
       "description": "Wind-sculpted sand dunes with long shadows",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["desert", "sand", "dunes", "shadows"]
     },
     {
@@ -53,7 +53,7 @@
       "imgPath": "img/myphotos/07-machu-picchu-peru.jpg",
       "imgLocation": "Machu Picchu, Peru",
       "description": "Incan citadel emerging through morning mist",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["heritage", "mountains", "peru", "ruins"]
     },
     {
@@ -61,7 +61,7 @@
       "imgPath": "img/myphotos/08-taj-mahal-india.jpg",
       "imgLocation": "Taj Mahal, Agra, India",
       "description": "Marble mausoleum reflected in still water",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["monument", "marble", "symmetry", "india"]
     },
     {
@@ -69,7 +69,7 @@
       "imgPath": "img/myphotos/09-swiss-alpine-lake.jpg",
       "imgLocation": "Alpine Lake, Switzerland",
       "description": "Mountain peaks reflected in a calm lake",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["mountains", "reflection", "lake", "switzerland"]
     },
     {
@@ -77,7 +77,7 @@
       "imgPath": "img/myphotos/10-venice-canal-italy.jpg",
       "imgLocation": "Venice Canal, Italy",
       "description": "Gondola gliding through narrow canal at blue hour",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["canal", "gondola", "italy", "blue-hour"]
     },
     {
@@ -85,7 +85,7 @@
       "imgPath": "img/myphotos/11-great-barrier-reef.jpg",
       "imgLocation": "Great Barrier Reef, Australia",
       "description": "Colorful coral and tropical fish underwater",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["reef", "underwater", "coral", "australia"]
     },
     {
@@ -93,7 +93,7 @@
       "imgPath": "img/myphotos/12-iceland-waterfall.jpg",
       "imgLocation": "Waterfall, Iceland",
       "description": "Silky waterfall with mossy foreground rocks",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["waterfall", "long-exposure", "iceland", "moss"]
     },
     {
@@ -101,7 +101,7 @@
       "imgPath": "img/myphotos/13-moroccan-market.jpg",
       "imgLocation": "Spice Market, Marrakech, Morocco",
       "description": "Vibrant spice stalls and hanging lanterns",
-      "date": "",
+      "date": "2025-11-10",
       "tags": ["market", "colors", "morocco", "culture"]
     }
   ]

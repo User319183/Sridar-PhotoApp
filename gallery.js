@@ -16,6 +16,9 @@ $(document).ready(() => {
     $('.details').slideToggle(300)
     // Toggle between rot90 and rot270 to visually rotate the indicator
     $(this).toggleClass('rot90 rot270')
+    // Update aria-expanded for accessibility
+    const expanded = $('.details').is(':visible')
+    $(this).attr('aria-expanded', expanded)
   })
 
   // Select the "Next Photo" button and add a click event to call showNextPhoto
@@ -55,6 +58,8 @@ function swapPhoto () {
   
   // Update the #photo element's src attribute with the current image's path
   $('#photo').attr('src', currentImage.imgPath)
+  // Set alt text to description for accessibility
+  $('#photo').attr('alt', currentImage.description)
   
   // Update the .location, .description, and .date elements with the current image's details
   $('.location').text('Location: ' + currentImage.imgLocation)

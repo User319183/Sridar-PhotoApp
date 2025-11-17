@@ -4,6 +4,7 @@ body {
     background-image: url('../img/geometry.jpg');
     background-size: cover;
     background-attachment: fixed;
+    color: #222;
 }
 
 /* Main container for the slideshow and metadata */
@@ -56,6 +57,9 @@ body {
     cursor: pointer;
     transition: opacity 0.3s; /* Optional: Add hover effect */
 }
+#nav img:hover, #nav img:focus {
+    opacity: 0.7;
+}
 
 /* Metadata container styling */
 .details {
@@ -89,3 +93,14 @@ Make it animate nicely. You'll need CSS3 for this */
 .rot270 {
     transform: rotate(270deg);
 }
+
+/* Responsive tweaks */
+@media (max-width: 576px) {
+    #photoBooth { padding: 18px; }
+    #nav img { height: 60px; width: 60px; }
+    .banner { font-size: 1.6rem; }
+    .details { font-size: 0.95rem; }
+}
+
+/* High-contrast focus outline for accessibility */
+img:focus { outline: 3px solid #007bff; outline-offset: 2px; }
