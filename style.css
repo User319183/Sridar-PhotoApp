@@ -141,7 +141,6 @@ body {
 }
 
 #nav img:hover {
-	transform: scale(1.15) translateY(-2px);
 	background: rgba(255, 255, 255, 0.9);
 	filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
 }
